@@ -6,6 +6,6 @@
 
 @layer components {
     .btn {
-        @apply transition-all duration-200 ease-in-out bg-white rounded-full hover:scale-110 w-fit flex flex-row
+        @apply transition-all duration-200 ease-in-out bg-white rounded-full hover:scale-110 w-fit flex flex-row hover:cursor-pointer
     }
 }
